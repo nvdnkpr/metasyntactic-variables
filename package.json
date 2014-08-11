@@ -1,0 +1,24 @@
+{
+  "name": "metasyntactic-variables",
+  "version": "1.0.0",
+  "description": "standard list of metasyntactic variables as defined in rfc3092",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/metasyntactic-variables.git"
+  },
+  "homepage": "https://github.com/substack/metasyntactic-variables",
+  "keywords": [
+    "rfc3092",
+    "json",
+    "metasyntactic",
+    "variable",
+    "names"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT"
+}
